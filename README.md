@@ -47,4 +47,4 @@ The analysis highlights key customer segments, the popularity of various music g
 - **Country-wise Genre Insights**: Each country has its own genre preferences, which can be used to tailor promotions.
 
 ## Repository Link
-For the full project, data, and code, check the repository: [Music Store Data Analysis using PostgreSQL](https://github.com/Eye27/Diwali-Sales-Analysis-Using-Python)
+For the full project, data, and code, check the repository: [Music Store Data Analysis using PostgreSQL](https://github.com/Eye27/Music-Store-Data-Analysis-Using-SQL)
