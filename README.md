@@ -33,7 +33,7 @@ The dataset contains the following key tables:
 - **PostgreSQL**: Database management and SQL query execution.
 - **pgAdmin**: User interface for managing databases and running queries.
 
-##Schema- Music Store Database
+## Schema- Music Store Database
 
 ![213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3](https://github.com/user-attachments/assets/a29f6280-cd3f-4a60-8b82-08b6ee0cb87e)
 
